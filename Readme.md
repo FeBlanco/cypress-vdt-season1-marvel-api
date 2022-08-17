@@ -1,13 +1,20 @@
+<h2 align="center">
+<img align="center"  height="120" width="120" src="https://raw.githubusercontent.com/cypress-io/cypress-icons/e61b554695b28267a1387a839f816c73e7a7e95e/src/logo/cypress-io-logo.svg"> Viver de Teste 1.ª Temporada
+</h2>
+
+## Marvel API
+
+Projeto feito no curso da Qacademy utilizando o cypress para automatizar a API da Marvel
+
+![cypress-api-marvel](https://user-images.githubusercontent.com/43914674/185012638-ba29a336-689e-4e96-b1d1-9972639d3c31.gif)
 
 
-# Viver de Teste 1.ª Temporada
+## Tecnologias
 
-<h1 align="left">
-    <img src=".github/logo-stiker.svg" width="250px">
-</h1>
-
-
-# Marvel API
+- [Node.js] - plataforma de desenvolvimento
+- [Express] - framework onde a API foi construída
+- [Cypress] - framework de testes automatizados
+- [MongoDB] - Banco de dados (Não relacional)
 
 ## 🔖 Requisitos funcionais
 
@@ -38,29 +45,3 @@
 - [x] Deve poder remover por id, um personagem cadastrado
 - [x] Deve retornar não encontrado ao remover por id não cadastrado
 
-## 🚀 Tecnologias
-
-- [Node.js] - plataforma de desenvolvimento
-- [Express] - framework onde a API foi construída
-- [Cypress] - framework de testes automatizados
-- [MongoDB] - Banco de dados (Não relacional)
-
-## 👨🏻‍💻 Como executar o projeto
-
-[Node.js](https://nodejs.org/) v16 ou superior para executar.
-
-Execute os comandos abaixo para instalar das dependências do projeto e execução dos testes:
-
-```sh
-cd vdt-season1-marvel-api
-npm i
-npx cypress run
-```
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feito com 💜 &nbsp;por Fernando Papito 👋 &nbsp;[Meu linkedin](https://www.linkedin.com/in/papitoio/)
